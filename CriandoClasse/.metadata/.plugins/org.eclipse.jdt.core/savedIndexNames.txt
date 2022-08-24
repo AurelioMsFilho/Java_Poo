@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/aurelio/Programação/Program_Java/ProjetosJava005i/CursoPOO/CriandoClasse/.metadata/.plugins/org.eclipse.jdt.core
